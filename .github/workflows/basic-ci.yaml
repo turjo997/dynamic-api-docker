@@ -11,5 +11,5 @@ jobs:
       - name: Code checkout
         uses: actions/checkout@v4
       - name: Print
-        run: echo "Hello from Basic CI pipeline"
+        run: echo "Hello World"
             
